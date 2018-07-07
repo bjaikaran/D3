@@ -19,9 +19,9 @@
     padding: 2px;
     padding-top: 8px;
     font: 12px sans-serif;
-    color: white;
+    color: #8080ff;
     text-align: center;
-    background: #551aaf;
+    background: #00e6e6;
     border: 0;
     border-radius: 10px;
   }
@@ -42,9 +42,9 @@
   .circleText{
     font-size:10px;
     text-anchor: "middle";
-    fill:"white";
+    fill:"#8080ff";
     font-weight:"bold";
-    fill:"white"
+    fill:"#8080ff"
   }
   
   
